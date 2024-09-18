@@ -7,7 +7,7 @@ Kotlin, Java, MVP/MVVM, RxJava, Coroutines, Koin, Room, REST, Retrofit, Jetpack 
 
 [Career Hub](https://github.com/Logomann/practicum-android-diploma) - application for searching vacancies based on API hh.ru. You can add vacancies to favorites, filter search by parameters.
 
-[Playlist Maker](https://github.com/Logomann/Playlist-maker) is a music track search application based on iTunes API. You can search for tracks in the iTunes database, listen to a fragment of a track, add a track to favorites, create a playlist from tracks.
+[Playlist Maker](https://github.com/Logomann/Playlist-maker) - music track search application based on iTunes API. You can search for tracks in the iTunes database, listen to a fragment of a track, add a track to favorites, create a playlist from tracks.
 
 <!--
 **Logomann/Logomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
