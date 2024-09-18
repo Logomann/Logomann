@@ -3,6 +3,11 @@ I'm an Android developer.
 
 Kotlin, Java, MVP/MVVM, RxJava, Coroutines, Koin, Room, REST, Retrofit, Jetpack Navigation, Jetpack Compose, Clean Arhitecture, SOLID, Gson, OkHttp, Agile, LiveData, Flow, Figma
 
+[DataScanner](https://github.com/Logomann/Data_Scanner_2.0) - ERP client for accounting of freight vehicles of the logistics terminal for TSD based on Android.
+
+[Career Hub](https://github.com/Logomann/practicum-android-diploma) - application for searching vacancies based on API hh.ru. You can add vacancies to favorites, filter search by parameters.
+
+[Playlist Maker](https://github.com/Logomann/Playlist-maker) is a music track search application based on iTunes API. You can search for tracks in the iTunes database, listen to a fragment of a track, add a track to favorites, create a playlist from tracks.
 
 <!--
 **Logomann/Logomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
