@@ -9,6 +9,8 @@ Kotlin, Java, MVP/MVVM, RxJava, Coroutines, Koin, Room, REST, Retrofit, Jetpack 
 
 [Playlist Maker](https://github.com/Logomann/Playlist-maker) - music track search application based on iTunes API. You can search for tracks in iTunes database, listen to a fragment of a track, add a track to favorites, create a playlist from tracks.
 
+[BankFinder](https://github.com/Logomann/BankFinder) - application for searching information about a bank card by its number. Search history is available.
+
 <!--
 **Logomann/Logomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
