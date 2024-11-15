@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Vitaliy
 I'm an Android developer.
 
-Kotlin, Java, MVP/MVVM, RxJava, Coroutines, Koin, Room, REST, Retrofit, Jetpack Navigation, Jetpack Compose, Clean Arhitecture, SOLID, Gson, OkHttp, Agile, LiveData, Flow, Figma
+Kotlin, Java, MVP/MVVM, RxJava, Coroutines, Koin, Room, REST, Retrofit, Jetpack Navigation, Jetpack Compose, Clean Arhitecture, SOLID, Gson, OkHttp, Agile, LiveData, Flow, Figma, CameraX, Google ML Kit.
 
 [DataScanner](https://github.com/Logomann/Data_Scanner_2.0) - ERP client for accounting of freight vehicles of the logistics terminal for TSD based on Android.
 
